@@ -1,0 +1,27 @@
+body,
+#app {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: white;
+    /* overflow: hidden; */
+    overflow-x: hidden;
+}
+
+html {
+    background-color: #f4f4f4;
+    min-width: 374px;
+    max-width: 750px;
+    margin: auto;
+}
+
+@media screen and (min-width: 750px) {
+    html {
+        font-size: 75px !important;
+    }
+}
+
+p {
+    margin: 0;
+    padding: 0;
+}
