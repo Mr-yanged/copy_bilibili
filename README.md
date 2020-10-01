@@ -61,4 +61,4 @@ vue + vuex + vue-router + ES6/7 + less + flex + rem + vant
 
 因水平有限，尚未完成在线预览功能，下图为该项目部分截图
 
-![Image text](https://gitee.com/mr__yanged/vue_shop/raw/master/1.png)
+![Image text](https://github.com/Mr-yanged/copy_bilibili/blob/master/1.png)
