@@ -58,3 +58,7 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 ###### 技术栈
 
 vue + vuex + vue-router + ES6/7 + less + flex + rem + vant
+
+因水平有限，尚未完成在线预览功能，下图为该项目部分截图
+
+![Image text](https://gitee.com/mr__yanged/vue_shop/raw/master/1.png)
